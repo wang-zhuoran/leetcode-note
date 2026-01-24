@@ -37,7 +37,7 @@
 
 | Date | Category | Paper Title & Link | My Notes | Importance |
 | :--- | :--- | :--- | :---: | :---: |
-| 2026-01 | **Diffusion** | [**High-Resolution Image Synthesis with Latent Diffusion Models**](https://arxiv.org/abs/2112.10752) | [**[点击阅读]**](./论文精度/LDM.md) | ⭐⭐⭐⭐⭐ |
+| 2026-01 | **Diffusion** | [**High-Resolution Image Synthesis with Latent Diffusion Models**](https://arxiv.org/abs/2112.10752) | [**[点击阅读]**](./论文精读/LDM.md) | ⭐⭐⭐⭐⭐ |
 | WIP | **MLSys** | FlashAttention: Fast and Memory-Efficient Exact Attention | *Writing...* | ⭐⭐⭐⭐ |
 
 <details>
