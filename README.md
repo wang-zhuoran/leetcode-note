@@ -38,13 +38,21 @@
 | Date | Category | Paper Title & Link | My Notes | Importance |
 | :--- | :--- | :--- | :---: | :---: |
 | 2026-01 | **Diffusion** | [**High-Resolution Image Synthesis with Latent Diffusion Models**](https://arxiv.org/abs/2112.10752) | [**[点击阅读]**](./论文精读/LDM.md) | ⭐⭐⭐⭐⭐ |
+| 2026-01 | **Diffusion** | [**Scalable Diffusion Models with Transformers**](https://arxiv.org/abs/2212.09748) | [**[点击阅读]**](./论文精读/DiT.md) | ⭐⭐⭐⭐⭐ |
 | WIP | **MLSys** | FlashAttention: Fast and Memory-Efficient Exact Attention | *Writing...* | ⭐⭐⭐⭐ |
 
 <details>
 <summary><strong>🗂️ 待读清单 / Todo List (点击展开)</strong></summary>
 
 - [ ] ControlNet
-- [ ] Scalable Diffusion Models with Transformers
+- [x] Scalable Diffusion Models with Transformers
+- [ ] SGLang: Efficient Execution of Structured Language Model Programs
+- [ ] Serving DNNs like Clockwork: Performance Predictability from the Bottom Up
+- [ ] DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models
+- [ ] DeepCache: Accelerating Diffusion Models for Free
+- [ ] Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
+- [ ] FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality
+- [ ] Token Merging: Your ViT But Faster
 
 </details>
 
